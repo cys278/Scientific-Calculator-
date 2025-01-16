@@ -59,4 +59,4 @@ g++ -o calculator main.cpp calculator.cpp
 project/
 ├── calculator.h      # Header file with class declarations
 ├── calculator.cpp    # Implementation file
-├── main.cpp          # Main file for testing the calculator
+├── testFile.cpp          # Main file for testing the calculator
